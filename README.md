@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @the-kite-man
-- 👀 I’m interested in kite related activites.
-- 📫 How to reach me ... email or noonan's bar.
+- 👋 Hi, I’m The Kite Man
 
 <!---
 the-kite-man/the-kite-man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
